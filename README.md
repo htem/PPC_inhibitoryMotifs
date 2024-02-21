@@ -4,7 +4,7 @@ This repository is for materials, data, and code related to "Synaptic wiring mot
 
 
 ## EM dataset
-Image data can be accessed on CATMAID: http://catmaid3.hms.harvard.edu/catmaidppc/?pid=22&zp=9760&yp=296463.03125&xp=1111714.96875&tool=navigator&sid0=31&s0=1
+Image data can be accessed on [CATMAID](https://catmaid3.hms.harvard.edu/catmaidppc/?pid=1&zp=160&yp=490902.3125&xp=1086417.4375&tool=navigator&sid0=43&s0=8) 
 
 ## Circuit modeling
 Code related to circuit modeling (Fig. 4) can be found at: https://github.com/gbondanelli/PPC-opponent-inhibition
